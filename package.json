@@ -1,0 +1,17 @@
+{
+  "name": "skeleton-express",
+  "version": "1.0.0",
+  "description": "The skeleton of an express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Mottel Zirkind",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
